@@ -1,0 +1,9 @@
+# CODEOWNERS File
+# Ref: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Global owners (applied by default if no other rule matches)
+*       @global-owner-username
+
+# Team or specific paths:
+# /docs/  @docs-team
+# /src/   @dev-team
