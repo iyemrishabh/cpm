@@ -14,4 +14,4 @@ We follow a modified **GitHub Flow** model:
 - **Conventional Commits**: Commit messages should adhere to the Conventional Commits specification.
   - *Format*: `<type>(<scope>): <description>`
   - *Examples*: `feat(auth): add MFA support`, `fix(api): handle empty payload validation`
-- **PR Code Review**: At least one approval from a designated code owner is required before merging.
+- **PR Code Review**: At least one approval from a designated code owner is required before merging it to `main` branch.
